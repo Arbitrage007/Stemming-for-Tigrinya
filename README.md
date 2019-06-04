@@ -1,7 +1,9 @@
 # Stemming-Tigrigna-Document
 * **This is simple algorithm for _Stemming Tigrigna Document_.**
-* **_NB_!** **This algorithm is not advanced algorithm.**
-* Stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form.[wikipedia](https://en.wikipedia.org/wiki/Stemming)
+~~~
+**_NB_!** **This algorithm is not advanced algorithm.**
+~~~
+* Stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form.([wikipedia](https://en.wikipedia.org/wiki/Stemming)).
 
 # Installing NLTK in Windows
 * This is with the assumption as you have python installed. If you don't have. So, first step is to install python from [here](https://www.python.org/downloads/) and follow the steps.
