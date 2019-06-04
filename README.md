@@ -1,7 +1,7 @@
 # Stemming-Tigrigna-Document
 * **This is simple algorithm for _Stemming Tigrigna Document_.**
 ~~~
-**_NB_!** **This algorithm is not advanced algorithm.**
+**NOTE!** This algorithm is not advanced algorithm.
 ~~~
 * Stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form.([wikipedia](https://en.wikipedia.org/wiki/Stemming)).
 
