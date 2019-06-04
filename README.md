@@ -2,7 +2,7 @@
 * **This is simple algorithm for _Stemming Tigrigna Document_.**
 > NOTE! This algorithm is not advanced algorithm.
 
-* `Stemming` is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form.([wikipedia](https://en.wikipedia.org/wiki/Stemming)).
+* `Stemming` is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form generally a written word form.([wikipedia](https://en.wikipedia.org/wiki/Stemming)).
 
 # Installing NLTK in Windows
 * This is with the assumption that, you have python installed. If you don't have. So, first step is to install python from [https://www.python.org/downloads/](https://www.python.org/downloads/) and follow the steps.
@@ -58,6 +58,7 @@ brown.words()
 ~~~
 #document openner
 import codecs
+#open it with utf-8 encoding 
 f1 = codecs.open("filename.txt", "r", "utf-8-sig")
 text1 = f1.read()
 ~~~
