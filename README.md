@@ -70,6 +70,7 @@ text1 = f1.read()
 3. [**_prefix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in tigrigna.
 4. [**_steme.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/steme.txt) : which contains some stemm words used in tigrigna.
 5. [**_word.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/word.txt) : which contains the document to be stemmed.
+6. [**_output.txt_** ](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/output.txt) : which contains the final output.
 ~~~
 When you run the program make sure that you are in the same diroctary with ETL_SAMPLE_DICT.zip , unless you specified the path of it.
 ~~~
