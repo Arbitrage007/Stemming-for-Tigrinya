@@ -72,5 +72,5 @@ text1 = f1.read()
 5. [**_word.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/word.txt) : which contains the document to be stemmed.
 6. [**_output.txt_** ](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/output.txt) : which contains the final output.
 ~~~
-When you run the program make sure that you are in the same diroctary with ETL_SAMPLE_DICT.zip , unless you specified the path of it.
+When you run the program make sure that you are in the same diroctary with th files, unless you specified the path of it.
 ~~~
