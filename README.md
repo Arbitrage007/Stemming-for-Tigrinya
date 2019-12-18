@@ -1,11 +1,11 @@
-# Stemming-Tigrigna-Document
-* **This is simple algorithm for _Stemming Tigrigna Document_.**
-> NOTE! This algorithm is not advanced algorithm.
+# Stemming-For-Tigrigna
+* **This is a simple algorithm for _Stemming Tigrigna Document_.**
+> NOTE! This algorithm is not an advanced algorithm.
 
 * `Stemming` is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form generally a written word form.
 
 # Installing NLTK in Windows
-* This is with the assumption that, you have python installed. If you don't have. So, first step is to install python from [https://www.python.org/downloads/](https://www.python.org/downloads/) and follow the steps.
+* This is with the assumption that you have python installed. If you don't have, the first step is to install python from [https://www.python.org/downloads/](https://www.python.org/downloads/) and follow the steps.
 
 * Open terminal and the enter below command (Python 3).
 ~~~
@@ -64,13 +64,13 @@ text1 = f1.read()
 ~~~
 
 # Description About The files
-* **_This repostary contains the following:_**
+* **_This repository contains the following:_**
 1. [**_Stemming of  Tigrigna Document.ipynb_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/Stemming%20of%20%20Tigrigna%20Document.ipynb) : which contains the algorithm.
-2. [**_postfix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/postfix.txt) : which contains some postfixes used in tigrigna.
-3. [**_prefix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in tigrigna.
-4. [**_steme.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/steme.txt) : which contains some stemm words used in tigrigna.
+2. [**_postfix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/postfix.txt) : which contains some postfixes used in Tigrigna.
+3. [**_prefix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in Tigrigna.
+4. [**_steme.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/steme.txt) : which contains some stem words used in Tigrigna.
 5. [**_word.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/word.txt) : which contains the document to be stemmed.
 6. [**_output.txt_** ](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/output.txt) : which contains the final output.
 ~~~
-When you run the program make sure that you are in the same diroctary with th files, unless you specified the path of it.
+When you run the program make sure that you are in the same directory with the files unless you specified the path of it.
 ~~~
