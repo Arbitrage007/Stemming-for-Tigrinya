@@ -63,8 +63,7 @@ f1 = codecs.open("filename.txt", "r", "utf-8-sig")
 text1 = f1.read()
 ~~~
 
-# Description About The files
-* **_This repository contains the following:_**
+# Description About Some of The files
 1. [**_Stemming of  Tigrigna Document.ipynb_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/Stemming%20of%20%20Tigrigna%20Document.ipynb) : which contains the algorithm.
 2. [**_post1.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/postfix.txt) : which contains some postfixes used in Tigrinya.
 3. [**_pre1.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in Tigrinya
