@@ -66,11 +66,7 @@ text1 = f1.read()
 # Description About The files
 * **_This repository contains the following:_**
 1. [**_Stemming of  Tigrigna Document.ipynb_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/Stemming%20of%20%20Tigrigna%20Document.ipynb) : which contains the algorithm.
-2. [**_postfix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/postfix.txt) : which contains some postfixes used in Tigrigna.
-3. [**_prefix.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in Tigrigna.
-4. [**_steme.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/steme.txt) : which contains some stem words used in Tigrigna.
-5. [**_word.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/word.txt) : which contains the document to be stemmed.
-6. [**_output.txt_** ](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/output.txt) : which contains the final output.
-~~~
+2. [**_post1.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/postfix.txt) : which contains some postfixes used in Tigrinya.
+3. [**_pre1.txt_**](https://github.com/Luel-Hagos/Stemming-Tigrigna-Document/blob/master/prefix.txt) : which contains some prefixes used in Tigrinya
 When you run the program make sure that you are in the same directory with the files unless you specified the path of it.
 ~~~
