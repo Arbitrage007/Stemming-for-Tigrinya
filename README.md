@@ -1,7 +1,4 @@
-# Stemming-For-Tigrigna
-* **This is a simple algorithm for _Stemming Tigrigna Document_.**
-> NOTE! This algorithm is not an advanced algorithm.
-
+# Stemming Algorithm for Tigrinya Language
 * `Stemming` is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form generally a written word form.
 
 
