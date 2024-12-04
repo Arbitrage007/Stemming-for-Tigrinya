@@ -1,4 +1,3 @@
-
 import codecs
 from flask import *
 from forms import StemmingForm
@@ -46,7 +45,7 @@ class Stemming:
             if word.endswith(pfix):
                 new_word=word.replace(pfix,'')
                 if len(new_word)>1:
-                	return new_word
+                    return new_word
                 return oWord
 
     # remove the postfix
@@ -56,7 +55,7 @@ class Stemming:
             if word.startswith(prefx):
                 new_word=word.replace(prefx,'')
                 if len(new_word)>1:
-                	return new_word
+                    return new_word
                 return oWord
 
     # check if the word is stopword
@@ -83,9 +82,9 @@ class Stemming:
     def ruleTwo(self,word): # Not implimented yet
         wTwo={"ከድ":"ከደ","መፃ":"መፀ","መፅ":"መፀ"}
         new_word=word
-        for w in val.keys():
+        for w in wTwo.keys():
             if w in word:
-                new_word=word.replace(w,val[w])
+                new_word=word.replace(w,wTwo[w])
                 return new_word
         return new_word
     # stemming process
